@@ -1,0 +1,1 @@
+My attempt to write a ray tracing engine for [TI-CX-II-CAS](https://education.ti.com/en/products/calculators/graphing-calculators/ti-nspire-cx-ii-cx-ii-cas). Inspired by https://github.com/TheScienceElf/TI-84-CE-Raytracing
